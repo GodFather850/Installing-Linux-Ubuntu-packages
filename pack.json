@@ -1,0 +1,15 @@
+{
+    "project": "Linux Package installer",
+    "author": "GodFather",
+    "Packages": [
+        "neofetch",
+        "python3",
+        "curl", 
+        "git",
+        "libevent-2.1-7",
+        "libssl3",
+        "libasound2t64",
+        "jq",
+        "sublime-text"
+    ]
+}
