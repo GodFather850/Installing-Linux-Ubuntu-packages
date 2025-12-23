@@ -35,6 +35,7 @@ else
     clear
     echo "Restart later and let it settle. XD"
     echo "Good Lock!<3"
+    neofetch || fastfetch
 fi
 
 # Created By GodFather
