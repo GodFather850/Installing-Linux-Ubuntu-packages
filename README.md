@@ -6,6 +6,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 ---
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 # 📦Packages and libraries that are installed _Ubuntu_
+```markdown
         neofetch
         python3
         curl
@@ -14,21 +15,22 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         libssl3
         libasound2t64
         sublime-text
-
+```
 ---
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📂How To Run?
 1. Downloads File (https://github.com/GodFather850/Installing-Linux-Ubuntu-packages/archive/refs/heads/main.zip)
-
+   ```bash
         cd Downlods
-   
+   ```
 🔧 1. Give permission:
-
+```bash
         chmod +x packages.sh
-
-▶️ 2. Run the script:
-
+```
+▶️ 2.Run the script:
+```bash
         bash packages.sh
+```
 
 ---
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
