@@ -1,3 +1,4 @@
+![Script]([/doc/manual/logo-mini.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DBash%2BShell&psig=AOvVaw1UYTsh-l_cu8QBk-B2bzzn&ust=1766655948864000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJiazIL51ZEDFQAAAAAdAAAAABAL))
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 🚀Installing-Linux-Ubuntu-packages🛠️ 
 
