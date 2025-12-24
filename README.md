@@ -20,15 +20,15 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 # 📂How To Run?
 1. Downloads File (https://github.com/GodFather850/Installing-Linux-Ubuntu-packages/archive/refs/heads/main.zip)
 
-        1. cd Downlods
+        cd Downlods
    
 🔧 1. Give permission:
 
-        2. chmod +x packages.sh
+        chmod +x packages.sh
 
 ▶️ 2. Run the script:
 
-        3. bash packages.sh
+        bash packages.sh
 
 ---
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
