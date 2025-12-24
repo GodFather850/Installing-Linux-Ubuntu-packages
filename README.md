@@ -26,6 +26,7 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         2. chmod +x packages.sh
 
 ▶️ 2. Run the script:
+
         3. bash packages.sh
 
 ---
