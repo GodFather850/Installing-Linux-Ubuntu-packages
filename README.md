@@ -25,11 +25,11 @@ _Installing basic packages and libraries in Linux for people who are newly insta
         cd Downlods
 ```
    
-🔧 1. Give permission:
+🔧 2.Give permission:
 ```bash
         chmod +x packages.sh
 ```
-▶️ 2.Run the script:
+▶️ 3.Run the script:
 ```bash
         bash packages.sh
 ```
