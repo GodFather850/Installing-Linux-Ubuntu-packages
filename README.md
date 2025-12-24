@@ -75,8 +75,10 @@ Yes, you can specify which packages to install.
                     .-/+oossssoo+/-.
                                   
 
-
 ---
+
+**Tags:** `#bash` `#linux` `#automation` `#json` `#ubuntu` `#devops`
+
 # -👤Created By GodFather 
 
 # -📜MTA Scripter • Linux Learner🐧 • Future DevOps Engineer 🇺🇸🔥
