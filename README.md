@@ -36,6 +36,7 @@ ______________________________________________
         ipython3
 ```
 ---
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 # 📂How To Run?
 1. Downloads File [Installer-Download](https://github.com/GodFather850/Installing-Linux-Ubuntu-packages/archive/refs/heads/main.zip)
@@ -51,11 +52,13 @@ ______________________________________________
 ```
 
 ---
+
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 # 🔧 Is it possible to edit the packages that are installed?
 Yes, you can specify which packages to install.
 - By going to the json file in the presentation ("Packages") you can rename the packages or delete them.
 ---
+
 ![Tux](https://img.shields.io/badge/Tux-000000?style=for-the-badge&logo=linux&logoColor=white)
 # 📷 Example Output
 
@@ -108,4 +111,5 @@ Yes, you can specify which packages to install.
 [#json](https://github.com/topics/json)
 
 ---
+
 ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
