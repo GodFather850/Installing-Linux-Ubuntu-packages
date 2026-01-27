@@ -9,19 +9,22 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 # 📦Packages and libraries that are installed _Ubuntu_
 ```json
-        neofetch
-        python3
-        curl
-        git
-        libevent-2.1-7
-        libssl3
-        libasound2t64
-        dos2unix
-        ssh
-        sublime-text
-        ipython3
-        libnotify-bin
-        unrar
+"author": "GodFather",
+"Packages": [
+        "neofetch",
+       "python3",
+        "curl",
+        "git",
+       "libevent-2.1-7",
+        "libssl3",
+        libasound2t64",
+        "dos2unix",
+        "ssh",
+        "sublime-text",
+        "ipython3",
+        "libnotify-bin",
+       " unrar"
+]
 ```
 ---
 
