@@ -2,7 +2,6 @@
     "project": "Linux Package installer",
     "author": "GodFather",
     "Packages": [
-        "neofetch",
 		"fastfetch",
         "python3",
         "curl", 
