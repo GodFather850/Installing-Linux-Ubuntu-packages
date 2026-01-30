@@ -3,8 +3,8 @@
     "author": "GodFather",
     "Packages": [
 		"fastfetch",
-        "python3",
-        "curl", 
+        "python3-full",
+        "curl",
         "git",
         "libevent-2.1-7",
         "ssh",
