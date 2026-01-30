@@ -13,6 +13,7 @@
         "dos2unix",
         "ipython3",
         "libnotify-bin",
-	"unrar"
+		"unrar",
+		"nodejs"
     ]
 }
