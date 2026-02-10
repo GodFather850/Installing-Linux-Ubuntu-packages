@@ -2,7 +2,6 @@
     "project": "Linux Package installer",
     "author": "GodFather",
     "Packages": [
-        "fastfetch",
         "python3-full",
         "curl",
         "git",
@@ -13,7 +12,7 @@
         "dos2unix",
         "ipython3",
         "libnotify-bin",
-		"unrar",
-		"nodejs"
+	       "unrar",
+		      "nodejs"
     ]
 }
