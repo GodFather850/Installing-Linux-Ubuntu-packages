@@ -11,7 +11,6 @@ _Installing basic packages and libraries in Linux for people who are newly insta
 ```json
 "author": "GodFather",
 "Packages": [
-       "neofetch",
        "python3-full",
         "curl",
         "git",
