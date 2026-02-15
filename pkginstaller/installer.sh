@@ -1,5 +1,9 @@
 #!/bin/bash
 
+
+# Install Default Packages
+sudo apt update && sudo apt full-upgrade -y
+
 # jq Exists?
 if ! command -v jq  &> /dev/null; then # if not exists..
     echo "Installing Jq For Read Json..."
@@ -7,8 +11,6 @@ if ! command -v jq  &> /dev/null; then # if not exists..
     sudo apt install -y jq
 fi
 
-# Install Default Packages
-sudo apt update && sudo apt full-upgrade -y
 
 # Variables
 pack="config.json"
