@@ -12,8 +12,8 @@
         "dos2unix",
         "ipython3",
         "libnotify-bin",
-	       "unrar",
-		      "nodejs",
+	    "unrar",
+		"nodejs",
         "docker.io"
     ]
 }
