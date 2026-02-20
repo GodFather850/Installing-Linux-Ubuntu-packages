@@ -24,8 +24,8 @@ for pkg in "${Packages[@]}"; do
     sudo apt install -y "$pkg"
 done
 
-if ! command neofetch &> /dev/null || ! command fastfetch &> /dev/null; then
-    sudo apt install neofetch -y || sudo apt install fastfetch-y
+if ! command fastfetch &> /dev/null; then
+    sudo apt install fastfetch -y
 fi
 
 clear
@@ -40,7 +40,7 @@ else
     clear
     echo "Restart later and let it settle. XD"
     echo "Good Lock!<3"
-    neofetch || fastfetch
+    fastfetch
 fi
 
 # Created By GodFather
